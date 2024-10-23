@@ -1,0 +1,17 @@
+body {
+    background-color: #f4dfba;
+}
+
+h1 {
+    color: #876445;
+    text-align: center;
+}
+
+h2 {
+    color: #ca965c;
+}
+
+ul, ol{
+    font-size: 1.25rem;
+    color: #EEC373;
+}

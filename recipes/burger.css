@@ -1,0 +1,17 @@
+body {
+    background-color: #FFD07F;
+    color: #FDA65D;
+}
+
+h1 {
+    color: #E26A2C;
+    text-align: center;
+}
+
+h2 {
+    color: #FF8243;
+}
+
+li, p{
+    font-size: 1.5rem;
+}
