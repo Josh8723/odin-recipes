@@ -1,3 +1,18 @@
 body {
-    background-color: aqua;
+    background-color: #c9dabf;
+}
+
+h1 {
+    color: #808d7c;
+    text-align: center;
+}
+
+ul {
+    color: #808d7c;
+    font-size: 1.35rem;
+}
+
+ul :hover {
+    color: #5f6f65;
+    font-size: larger;
 }
